@@ -15,6 +15,7 @@ end
 
 bubble_sort([4,3,78,2,0,2])
 bubble_sort([78, 34, 5, 6, 23, 457, 4, 0, 0, 0, 4])
+
 # procedure bubbleSort( A : list of sortable items )
 #    n = length(A)
 #    repeat 
